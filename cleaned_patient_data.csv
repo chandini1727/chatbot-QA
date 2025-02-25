@@ -1,0 +1,233 @@
+patient_id,name,age,blood group,vaccine tested,gender,contact_number,address
+1,ramu,25,o+ve,COVID-19,Female,7627977821,Houston
+2,somu,29,b+ve,COVID-19,Female,9827379418,Houston
+3,bunny,27,AB -ve,COVID-19,Female,9948790488,Los Angeles
+4,annu,30,o -ve,COVID-19,Female,7329499306,San Diego
+5,minnu,21,O +ve,COVID-19,Female,8659064719,Chicago
+6,chinni,26,O +ve,COVID-19,Female,8926308100,Houston
+7,sonu,27,b +ve,COVID-19,Female,7245240490,San Diego
+6,chinni,26,O +ve,COVID-19,Female,7341312774,Phoenix
+5,minnu,21,O +ve,COVID-19,Male,8845112941,San Antonio
+10,simmi,40,AB -ve,COVID-19,Female,8689869796,Chicago
+8,sandy,32,O +ve,COVID-19,Male,7630020373,Philadelphia
+9,neha,22,O -ve,COVID-19,Male,9705872625,Austin
+11,vicky,28,b +ve,COVID-19,Male,9298707437,Los Angeles
+12,raju,24,AB +ve,COVID-19,Male,8764405267,San Diego
+13,tina,34,o+ve,COVID-19,Female,9610610452,Chicago
+14,sara,26,b -ve,COVID-19,Male,9256363341,Houston
+15,pandu,31,O +ve,COVID-19,Female,8433732731,Houston
+16,jyothi,27,AB +ve,COVID-19,Male,7030086812,Los Angeles
+17,priya,29,o -ve,COVID-19,Male,8675571128,San Antonio
+18,krishna,22,b +ve,COVID-19,Male,7111825080,New York
+19,suman,30,O -ve,COVID-19,Female,9613114196,San Antonio
+20,ravi,25,AB -ve,COVID-19,Female,7218447910,San Diego
+21,mahi,23,o+ve,COVID-19,Female,7511137453,Phoenix
+22,arjun,28,O +ve,COVID-19,Male,7655510979,Houston
+23,neel,26,b+ve,COVID-19,Male,9516812931,Austin
+24,kiran,27,O -ve,COVID-19,Female,8663244166,Dallas
+25,dinesh,30,AB +ve,COVID-19,Male,9373118137,New York
+26,lina,33,O +ve,COVID-19,Female,7386933852,Phoenix
+27,deepak,24,b -ve,COVID-19,Male,9076076667,San Antonio
+28,hema,29,O +ve,COVID-19,Female,9883538778,Houston
+29,amith,32,AB -ve,COVID-19,Female,9128401593,Chicago
+30,neha,26,O -ve,COVID-19,Female,9085675362,Los Angeles
+31,name31,33,AB -ve,COVID-19,Female,8920982403,Austin
+32,name32,34,B +ve,COVID-19,Male,9561604585,Philadelphia
+33,name33,28,O +ve,COVID-19,Female,7589138375,Los Angeles
+34,name34,23,AB +ve,COVID-19,Male,8589244726,San Diego
+35,name35,26,A +ve,COVID-19,Female,8756272453,San Diego
+36,name36,26,AB +ve,COVID-19,Female,9112908594,Dallas
+37,name37,23,AB +ve,COVID-19,Female,9520059005,Philadelphia
+38,name38,32,AB +ve,COVID-19,Female,9044844779,Austin
+39,name39,24,B +ve,COVID-19,Male,7015742845,San Diego
+40,name40,26,A +ve,COVID-19,Male,8850148916,Chicago
+41,name41,24,A +ve,COVID-19,Female,9242964599,Phoenix
+42,name42,24,B +ve,COVID-19,Female,7028266164,Chicago
+43,name43,36,AB +ve,COVID-19,Male,7493867830,Dallas
+44,name44,35,O +ve,COVID-19,Male,8798773354,Phoenix
+45,name45,39,AB -ve,COVID-19,Male,7754042767,Phoenix
+46,name46,33,AB -ve,COVID-19,Female,7843185044,San Antonio
+47,name47,28,B +ve,COVID-19,Male,7320450470,Philadelphia
+48,name48,23,A +ve,COVID-19,Female,9787787164,Dallas
+49,name49,32,B +ve,COVID-19,Female,8998677319,Dallas
+50,name50,27,O +ve,COVID-19,Male,7744730435,Philadelphia
+51,name51,29,A +ve,COVID-19,Female,8851279683,Austin
+52,name52,26,A +ve,COVID-19,Female,9372143621,San Diego
+53,name53,40,B +ve,COVID-19,Male,8135162461,San Diego
+54,name54,23,O +ve,COVID-19,Female,7494055955,Philadelphia
+55,name55,37,O +ve,COVID-19,Female,8040433426,Chicago
+56,name56,39,O -ve,COVID-19,Female,9311386884,San Diego
+57,name57,26,AB +ve,COVID-19,Male,8217997460,Dallas
+58,name58,25,AB +ve,COVID-19,Male,7310405173,Dallas
+59,name59,28,AB +ve,COVID-19,Male,7634397301,Los Angeles
+60,name60,21,AB -ve,COVID-19,Female,7271865966,New York
+61,name61,37,AB +ve,COVID-19,Male,8116821603,Houston
+62,name62,37,O -ve,COVID-19,Female,9596348876,Los Angeles
+63,name63,32,AB -ve,COVID-19,Female,8105537242,Houston
+64,name64,20,O -ve,COVID-19,Male,9042768406,Chicago
+65,name65,40,AB +ve,COVID-19,Female,7750954184,New York
+66,name66,37,B +ve,COVID-19,Female,8210296901,Houston
+67,name67,30,B +ve,COVID-19,Female,9923654739,Los Angeles
+68,name68,31,B +ve,COVID-19,Female,9393915232,Phoenix
+69,name69,29,O -ve,COVID-19,Female,8473268055,Houston
+70,name70,28,AB -ve,COVID-19,Male,7444261610,Los Angeles
+71,name71,33,AB +ve,COVID-19,Male,9134769770,Houston
+72,name72,25,A +ve,COVID-19,Male,7343578159,Philadelphia
+73,name73,29,AB +ve,COVID-19,Male,9408082521,Phoenix
+74,name74,35,AB +ve,COVID-19,Male,8491726845,San Antonio
+75,name75,39,B +ve,COVID-19,Female,8428022025,Philadelphia
+76,name76,35,O -ve,COVID-19,Male,7372436600,Phoenix
+77,name77,23,AB -ve,COVID-19,Female,8220668425,San Diego
+78,name78,35,O -ve,COVID-19,Male,9443583640,Chicago
+79,name79,27,B +ve,COVID-19,Female,9532307299,New York
+80,name80,34,O -ve,COVID-19,Female,7694999957,Dallas
+81,name81,39,A +ve,COVID-19,Male,8670465267,Los Angeles
+82,name82,26,O -ve,COVID-19,Female,9418908716,San Diego
+83,name83,28,AB -ve,COVID-19,Male,8352869494,New York
+84,name84,24,B +ve,COVID-19,Female,7934316984,Houston
+85,name85,40,O -ve,COVID-19,Male,7588460055,San Diego
+86,name86,21,AB -ve,COVID-19,Male,7422323949,Houston
+87,name87,31,O +ve,COVID-19,Male,9581291751,Los Angeles
+88,name88,21,AB -ve,COVID-19,Female,8288213592,San Antonio
+89,name89,26,O -ve,COVID-19,Female,8855548917,Philadelphia
+90,name90,32,B +ve,COVID-19,Female,7956608894,Phoenix
+91,name91,33,A +ve,COVID-19,Male,9579533304,New York
+92,name92,23,A +ve,COVID-19,Female,9416220738,San Antonio
+93,name93,26,AB +ve,COVID-19,Male,8717399207,Houston
+94,name94,38,A +ve,COVID-19,Female,9227690532,San Diego
+95,name95,23,AB -ve,COVID-19,Male,8219525815,Austin
+96,name96,33,B +ve,COVID-19,Male,9767750321,New York
+97,name97,31,B +ve,COVID-19,Male,9141252681,Philadelphia
+98,name98,37,AB +ve,COVID-19,Female,9436848385,Chicago
+99,name99,39,B +ve,COVID-19,Male,9799812835,Philadelphia
+100,name100,31,AB +ve,COVID-19,Female,7087909815,Austin
+101,name101,32,O -ve,COVID-19,Male,8109597888,Dallas
+102,name102,40,O -ve,COVID-19,Female,8809039977,Phoenix
+103,name103,33,O +ve,COVID-19,Male,8390633850,Chicago
+104,name104,23,AB +ve,COVID-19,Female,7652551985,Philadelphia
+105,name105,39,O +ve,COVID-19,Female,8951347582,Dallas
+106,name106,20,B +ve,COVID-19,Female,9653709197,Austin
+107,name107,20,O -ve,COVID-19,Male,8886348521,San Antonio
+108,name108,29,AB -ve,COVID-19,Male,7725702320,Dallas
+109,name109,24,O +ve,COVID-19,Female,8286164938,San Antonio
+110,name110,20,AB -ve,COVID-19,Male,8246206123,Austin
+111,name111,32,AB -ve,COVID-19,Male,7397919702,Chicago
+112,name112,36,O +ve,COVID-19,Female,7012925316,Houston
+113,name113,35,AB -ve,COVID-19,Male,7005830771,Los Angeles
+114,name114,21,O +ve,COVID-19,Female,9328408713,San Antonio
+115,name115,32,B +ve,COVID-19,Male,8037405059,San Diego
+116,name116,25,O +ve,COVID-19,Female,7969052134,Austin
+117,name117,24,B +ve,COVID-19,Female,8333618776,San Antonio
+118,name118,29,B +ve,COVID-19,Male,9179054872,Houston
+119,name119,21,A +ve,COVID-19,Male,7874409717,New York
+120,name120,32,O +ve,COVID-19,Female,7589279053,San Antonio
+121,name121,24,O -ve,COVID-19,Female,7121045555,San Diego
+122,name122,38,O +ve,COVID-19,Male,9368136371,Philadelphia
+123,name123,30,O +ve,COVID-19,Male,7690609763,San Diego
+124,name124,31,AB +ve,COVID-19,Male,8600605387,Dallas
+125,name125,21,A +ve,COVID-19,Female,8270568835,Austin
+126,name126,31,AB +ve,COVID-19,Male,7819767249,Los Angeles
+127,name127,36,B +ve,COVID-19,Female,8112745870,Chicago
+128,name128,25,A +ve,COVID-19,Female,7637556519,New York
+129,name129,39,AB -ve,COVID-19,Female,7451421222,New York
+130,name130,30,AB +ve,COVID-19,Male,9305574444,Houston
+131,name131,30,O -ve,COVID-19,Male,9865547124,New York
+132,name132,27,AB +ve,COVID-19,Female,7950674427,San Antonio
+133,name133,21,O +ve,COVID-19,Male,8461702631,Philadelphia
+134,name134,24,B +ve,COVID-19,Male,9257389829,San Antonio
+135,name135,29,AB -ve,COVID-19,Female,7900857753,Austin
+136,name136,32,O +ve,COVID-19,Male,7542384333,San Antonio
+137,name137,20,AB -ve,COVID-19,Female,7910811154,Austin
+138,name138,25,O +ve,COVID-19,Female,7576093842,Dallas
+139,name139,26,AB -ve,COVID-19,Female,8290866214,Phoenix
+140,name140,31,A +ve,COVID-19,Female,7662847146,San Diego
+141,name141,24,B +ve,COVID-19,Male,7730134973,San Antonio
+142,name142,36,O +ve,COVID-19,Female,7798955196,Los Angeles
+143,name143,29,A +ve,COVID-19,Female,8536428081,New York
+144,name144,23,B +ve,COVID-19,Female,7169878685,Chicago
+145,name145,27,B +ve,COVID-19,Male,7081259612,Philadelphia
+146,name146,33,AB -ve,COVID-19,Male,9126679137,Austin
+147,name147,40,B +ve,COVID-19,Female,8765257659,Houston
+148,name148,28,O +ve,COVID-19,Female,8276847291,Dallas
+149,name149,28,O +ve,COVID-19,Female,9797762083,Los Angeles
+150,name150,29,O -ve,COVID-19,Female,7825618315,Los Angeles
+151,name151,21,A +ve,COVID-19,Male,7491678971,Dallas
+152,name152,28,O +ve,COVID-19,Male,9680743731,Dallas
+153,name153,39,A +ve,COVID-19,Female,8622343023,New York
+154,name154,31,AB -ve,COVID-19,Male,7435867436,Philadelphia
+155,name155,37,AB +ve,COVID-19,Female,7057058978,Houston
+156,name156,26,O -ve,COVID-19,Male,7897370722,San Antonio
+157,name157,25,AB -ve,COVID-19,Male,8784059598,Houston
+158,name158,22,AB -ve,COVID-19,Male,9638666289,San Diego
+159,name159,22,AB -ve,COVID-19,Male,8170030963,Austin
+160,name160,39,O -ve,COVID-19,Female,7291140873,Philadelphia
+161,name161,36,AB +ve,COVID-19,Male,8132969798,Houston
+162,name162,25,AB -ve,COVID-19,Male,7971150693,Dallas
+163,name163,21,AB +ve,COVID-19,Male,7493937270,New York
+164,name164,33,B +ve,COVID-19,Male,8337853076,Austin
+165,name165,30,O -ve,COVID-19,Male,7405485975,Chicago
+166,name166,21,A +ve,COVID-19,Male,9865079742,San Diego
+167,name167,29,B +ve,COVID-19,Female,8072675119,San Antonio
+168,name168,23,AB +ve,COVID-19,Male,7062315178,Dallas
+169,name169,28,O +ve,COVID-19,Male,8283993828,Chicago
+170,name170,23,O +ve,COVID-19,Male,8234427889,Chicago
+171,name171,40,A +ve,COVID-19,Female,8375182655,Houston
+172,name172,23,A +ve,COVID-19,Male,9953532506,Dallas
+173,name173,32,A +ve,COVID-19,Female,7028992575,San Diego
+174,name174,26,AB -ve,COVID-19,Male,9003128225,Phoenix
+175,name175,23,AB -ve,COVID-19,Male,9756147194,Los Angeles
+176,name176,24,AB +ve,COVID-19,Female,9800916090,San Antonio
+177,name177,25,AB -ve,COVID-19,Male,8119889565,New York
+178,name178,33,O -ve,COVID-19,Male,9466267308,Houston
+179,name179,27,A +ve,COVID-19,Female,7773759152,San Diego
+180,name180,32,B +ve,COVID-19,Female,7925120424,Dallas
+181,name181,21,AB +ve,COVID-19,Female,9587836181,Dallas
+182,name182,40,B +ve,COVID-19,Male,7861927616,San Diego
+183,name183,37,O +ve,COVID-19,Female,7797319825,Houston
+184,name184,25,B +ve,COVID-19,Female,7776884959,San Diego
+185,name185,30,O +ve,COVID-19,Female,8533865508,New York
+186,name186,20,O +ve,COVID-19,Female,8683481408,Chicago
+187,name187,30,AB +ve,COVID-19,Male,7613110364,San Diego
+188,name188,36,AB +ve,COVID-19,Male,8716936035,Austin
+189,name189,25,AB -ve,COVID-19,Male,9220208777,Dallas
+190,name190,21,AB +ve,COVID-19,Male,7817137428,San Diego
+191,name191,31,AB +ve,COVID-19,Female,8534744289,New York
+192,name192,31,O -ve,COVID-19,Female,8378271304,Chicago
+193,name193,35,AB +ve,COVID-19,Male,9222499354,Chicago
+194,name194,34,O +ve,COVID-19,Female,7838712978,New York
+195,name195,40,AB -ve,COVID-19,Female,9757965985,New York
+196,name196,24,O -ve,COVID-19,Female,7713730903,San Antonio
+197,name197,37,O +ve,COVID-19,Female,8140264016,Austin
+198,name198,26,AB -ve,COVID-19,Male,9238826285,San Antonio
+199,name199,39,O +ve,COVID-19,Female,7314344219,San Antonio
+200,name200,39,AB +ve,COVID-19,Male,9301138736,Philadelphia
+201,name201,36,O -ve,COVID-19,Male,8462867288,Chicago
+202,name202,39,AB +ve,COVID-19,Female,7865651004,Phoenix
+203,name203,24,O -ve,COVID-19,Female,7528472885,Dallas
+204,name204,29,O +ve,COVID-19,Male,9431158210,New York
+205,name205,39,AB +ve,COVID-19,Male,9635007857,Phoenix
+206,name206,30,AB +ve,COVID-19,Female,9022737255,Austin
+207,name207,33,B +ve,COVID-19,Male,8449579598,New York
+208,name208,26,AB -ve,COVID-19,Male,7523190806,Los Angeles
+209,name209,34,O +ve,COVID-19,Female,9986126932,San Antonio
+210,name210,24,B +ve,COVID-19,Male,9327888465,Houston
+211,name211,34,O +ve,COVID-19,Female,8045051116,Philadelphia
+212,name212,29,O -ve,COVID-19,Female,7378119036,Los Angeles
+213,name213,24,A +ve,COVID-19,Male,7026331705,Houston
+214,name214,38,AB -ve,COVID-19,Female,7636520454,Dallas
+215,name215,33,O +ve,COVID-19,Female,8065608886,San Antonio
+216,name216,37,O -ve,COVID-19,Male,7969302085,New York
+217,name217,33,A +ve,COVID-19,Male,7701839105,Los Angeles
+218,name218,22,AB -ve,COVID-19,Male,8936237174,Houston
+219,name219,21,O -ve,COVID-19,Male,7101500174,New York
+220,name220,21,O +ve,COVID-19,Female,7849103555,New York
+221,name221,20,A +ve,COVID-19,Female,9561428218,New York
+222,name222,25,O +ve,COVID-19,Male,7838010541,Houston
+223,name223,25,O +ve,COVID-19,Male,7085991634,Austin
+224,name224,33,B +ve,COVID-19,Male,8045269378,San Antonio
+225,name225,30,O +ve,COVID-19,Male,8513785068,Phoenix
+226,name226,27,O +ve,COVID-19,Male,7901850222,Phoenix
+227,name227,30,O +ve,COVID-19,Male,8292019611,Philadelphia
+228,name228,36,B +ve,COVID-19,Female,8327589323,San Diego
+229,name229,22,AB -ve,COVID-19,Female,7732921669,Phoenix
+230,name230,30,AB -ve,COVID-19,Male,7429081282,Dallas
